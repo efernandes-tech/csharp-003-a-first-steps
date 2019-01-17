@@ -2,17 +2,17 @@
 
 # Anotações:
 - A1: Historia e ecossistema .NET
-|-------------------------------------------------|
-|    C#    |    VB    |    F#   |   (Outra LP)    |
-|-------------------------------------------------|
-|        Aplicação .NET (prog. compilado)         |
-|-------------------------------------------------|
-|           .NET Framework (biblioteca)           |
-|-------------------------------------------------|
-| CLR - Common Language Runtime (máquina virtual) |
-|-------------------------------------------------|
-|     Windows     |     Linux     |     ...       |
-|-------------------------------------------------|
+	|-------------------------------------------------|
+	|    C#    |    VB    |    F#   |   (Outra LP)    |
+	|-------------------------------------------------|
+	|        Aplicação .NET (prog. compilado)         |
+	|-------------------------------------------------|
+	|           .NET Framework (biblioteca)           |
+	|-------------------------------------------------|
+	| CLR - Common Language Runtime (máquina virtual) |
+	|-------------------------------------------------|
+	|     Windows     |     Linux     |     ...       |
+	|-------------------------------------------------|
 - A1: Nosso primeiro programa CSharp
 	- Compilar:
 		C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe MeuPrimeiroPrograma.txt
