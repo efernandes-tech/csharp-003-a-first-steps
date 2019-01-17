@@ -1,7 +1,7 @@
 # csharp-003-a-first-steps
 
 # Anotações:
-- A2: Historia e ecossistema .NET
+- A1: Historia e ecossistema .NET
 |-------------------------------------------------|
 |    C#    |    VB    |    F#   |   (Outra LP)    |
 |-------------------------------------------------|
@@ -13,3 +13,6 @@
 |-------------------------------------------------|
 |     Windows     |     Linux     |     ...       |
 |-------------------------------------------------|
+- A1: Nosso primeiro programa CSharp
+	- Compilar:
+		C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe MeuPrimeiroPrograma.txt
